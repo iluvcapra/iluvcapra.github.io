@@ -41,6 +41,9 @@
 .button-news {
   font-size: 0.9rem; 
   font-weight: normal;
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
 }
 
 /* Amazon */
