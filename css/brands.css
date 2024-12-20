@@ -38,6 +38,11 @@
 	--button-border:1px solid #ffffff;
 }
 
+.button.button-news {
+  font-size: 0.9rem; 
+  font-weight: normal;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
